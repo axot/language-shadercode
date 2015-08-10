@@ -1,6 +1,6 @@
 {
   "name": "language-shadercode-shaderlab",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Syntax highlighting for shader languages like hlsl, glsl, usf and shaderlab",
   "repository": "https://github.com/axot/language-shadercode",
   "license": "MIT",
