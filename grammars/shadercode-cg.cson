@@ -3,6 +3,7 @@
 'fileTypes': [
   'fx'
   'cg'
+  'cginc'
   'shader'
 ]
 'foldingStartMarker': '/\\*\\*|\\{\\s*$'
